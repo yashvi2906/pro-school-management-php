@@ -1,1 +1,1 @@
-# pro-school-management-php
+school-management-php
